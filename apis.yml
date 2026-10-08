@@ -47,6 +47,12 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/race-protocol/refs/heads/main/apis.yml
 specificationVersion: '0.23'
 common:
+  - type: Plans
+    url: plans/race-protocol-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/race-protocol-rate-limits.yml
+  - type: FinOps
+    url: finops/race-protocol-finops.yml
   - type: DomainSecurity
     url: security/race-protocol-domain-security.yml
   - type: GitHubOrganization
