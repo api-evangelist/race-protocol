@@ -1,4 +1,4 @@
-# RACE Protocol (race-protocol)
+# RACE Protocol
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,49 +66,64 @@
 
 RACE Protocol is a multi-chain, on-chain infrastructure for developing and deploying secure and fair web3 games. It is delivered primarily through a TypeScript/JavaScript SDK (sdk-core, sdk-solana, sdk-sui, sdk-facade) and a command-line tool (race-cli) for game bundle publishing, account management, and payment claims, rather than as a traditional REST API. Smart contracts run on Solana and Sui.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/race-protocol/refs/heads/main/apis.yml)
+**Areas:** Web3 · Blockchain · Gaming · SDK · Solana · Sui
 
-## Scope
+## RACE Protocol on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for RACE Protocol is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/race-protocol/](https://apis.io/providers/race-protocol/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Web3
-- Blockchain
-- Gaming
-- SDK
-- Solana
-- Sui
+- [RACE Protocol](https://apis.io/apis/race-protocol/race-protocol/) — Developer guide and SDK/CLI surface for writing, publishing, and running WASM game bundles on the RACE Protocol multi-chain infrastructure.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-06
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### RACE Protocol
-Developer guide and SDK/CLI surface for writing, publishing, and running WASM game bundles on the RACE Protocol multi-chain infrastructure.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://team-race.gitbook.io/race-protocol/race-protocol/game-development/race-api](https://team-race.gitbook.io/race-protocol/race-protocol/game-development/race-api)
+- [Race Protocol Domain Security](https://apis.io/security/race-protocol/race-protocol-domain-security/)
 
-#### Tags
+#### Plans and pricing (1)
 
-- Web3
-- Blockchain
-- Gaming
-- SDK
+Published plans, tiers and prices.
 
-#### Properties
+- [Race Protocol Plans Pricing](https://apis.io/plans/race-protocol/race-protocol-plans-pricing/)
 
-- [Documentation](https://team-race.gitbook.io/race-protocol/race-protocol/game-development/race-api)
-- [Sitemap](https://team-race.gitbook.io/race-protocol/sitemap.md)
+#### Rate limits (1)
 
-## Maintainers
+Published request limits.
 
-**FN:** Kin Lane
+- [Race Protocol Rate Limits](https://apis.io/rate-limits/race-protocol/race-protocol-rate-limits/)
 
-**Email:** kin@apievangelist.com
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Race Protocol Finops](https://apis.io/finops/race-protocol/race-protocol-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [GitHub](https://github.com/RACE-Game)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for RACE Protocol: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/race-protocol/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
